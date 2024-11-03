@@ -9,7 +9,8 @@ date: 2018-02-12 00:00:00 Z
 
 ![cover](images/tree.png)
 
-Theme cutie has evolved from v1.x to v2.x with a refreshed and fine tuned design and more features. Follow the following instruction to install and use it. You may navigate this website to experience the new look and interaction of v2.x.
+測試內文
+# This is an H1
 
 __Thank you for your stars and support__.
 
