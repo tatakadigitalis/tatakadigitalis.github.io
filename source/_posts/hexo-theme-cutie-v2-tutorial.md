@@ -9,7 +9,7 @@ date: 2025-06-12 00:00:00 Z
 
 ![cover](images/tree.png)
 
-開發環境（Mac/Windows）和 雲端環境（GCP/AWS/Azure）docker 的比較
+Docker Desktop 和雲端環境（GCP/AWS/Azure）docker 的比較
 
 
 <!-- more -->
